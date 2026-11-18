@@ -1,0 +1,53 @@
+Archivo de registro. Se completará al ejecutar main.py.
+2026-11-18 03:08:05,288 - INFO - Se generaron 50 registros biomédicos.
+2026-11-18 03:08:05,289 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-18 03:08:05,289 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-18 03:08:05,289 - INFO - Archivo TXT exportado: /mnt/data/review/Taller_3_Informatica/data/txt/registros.txt
+2026-11-18 03:08:05,290 - INFO - Archivo CSV exportado: /mnt/data/review/Taller_3_Informatica/data/csv/registros.csv
+2026-11-18 03:08:05,290 - INFO - Archivo JSON exportado: /mnt/data/review/Taller_3_Informatica/data/json/registros.json
+2026-11-18 03:08:05,291 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-18 03:08:05,291 - INFO - Se importaron 50 registros válidos desde JSON.
+2026-11-18 03:08:14,136 - INFO - Se generaron 50 registros biomédicos.
+2026-11-18 03:08:14,136 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-18 03:08:14,136 - INFO - Archivo TXT exportado: /mnt/data/review/Taller_3_Informatica/data/txt/registros.txt
+2026-11-18 03:08:14,136 - INFO - Archivo CSV exportado: /mnt/data/review/Taller_3_Informatica/data/csv/registros.csv
+2026-11-18 03:08:14,137 - INFO - Archivo JSON exportado: /mnt/data/review/Taller_3_Informatica/data/json/registros.json
+2026-11-17 22:26:21,571 - INFO - El programa finalizó.
+2026-11-17 22:54:01,637 - INFO - Se generaron 50 registros biomédicos.
+2026-11-17 22:54:01,637 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 22:54:18,051 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 22:54:31,225 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-17 22:56:51,521 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 22:56:51,526 - INFO - Archivo TXT exportado: C:\Users\USUARIO\Downloads\Taller_3_Informatica_entrega\Taller_3_Informatica\data\txt\registros.txt
+2026-11-17 22:56:51,532 - INFO - Archivo CSV exportado: C:\Users\USUARIO\Downloads\Taller_3_Informatica_entrega\Taller_3_Informatica\data\csv\registros.csv
+2026-11-17 22:56:51,547 - INFO - Archivo JSON exportado: C:\Users\USUARIO\Downloads\Taller_3_Informatica_entrega\Taller_3_Informatica\data\json\registros.json
+2026-11-17 23:19:36,882 - INFO - El programa finalizó.
+2026-11-17 23:30:59,644 - INFO - Se generaron 50 registros biomédicos.
+2026-11-17 23:30:59,656 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 23:31:26,259 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-17 23:31:27,137 - INFO - Conexión exitosa con MongoDB Atlas.
+2026-11-17 23:31:27,242 - INFO - Se insertaron 50 documentos en MongoDB.
+2026-11-17 23:32:38,678 - INFO - Conexión exitosa con MongoDB Atlas.
+2026-11-17 23:32:38,831 - INFO - Consultas de MongoDB ejecutadas y exportadas.
+2026-11-17 23:34:39,448 - INFO - Conexión exitosa con MongoDB Atlas.
+2026-11-17 23:39:28,282 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-17 23:39:28,282 - INFO - Se importaron 50 registros válidos desde JSON.
+2026-11-17 23:39:28,282 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 23:56:39,839 - INFO - El programa finalizó.
+2026-11-17 23:56:47,221 - INFO - Se generaron 50 registros biomédicos.
+2026-11-17 23:56:47,221 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 23:56:54,694 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 23:57:00,885 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-17 23:57:04,343 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 23:57:04,352 - INFO - Archivo TXT exportado: C:\Users\USUARIO\Downloads\Taller_3_Informatica_entrega\Taller_3_Informatica\data\txt\registros.txt
+2026-11-17 23:57:04,358 - INFO - Archivo CSV exportado: C:\Users\USUARIO\Downloads\Taller_3_Informatica_entrega\Taller_3_Informatica\data\csv\registros.csv
+2026-11-17 23:57:04,358 - INFO - Archivo JSON exportado: C:\Users\USUARIO\Downloads\Taller_3_Informatica_entrega\Taller_3_Informatica\data\json\registros.json
+2026-11-17 23:57:08,279 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-17 23:57:08,289 - INFO - Se importaron 50 registros válidos desde JSON.
+2026-11-17 23:57:08,289 - INFO - Los registros se ordenaron por frecuencia cardíaca.
+2026-11-17 23:57:11,871 - INFO - Validación realizada: 50 válidos y 0 inválidos.
+2026-11-17 23:57:13,936 - INFO - Conexión exitosa con MongoDB Atlas.
+2026-11-17 23:57:14,031 - INFO - Se insertaron 50 documentos en MongoDB.
+2026-11-17 23:57:17,160 - INFO - Conexión exitosa con MongoDB Atlas.
+2026-11-17 23:57:17,306 - INFO - Consultas de MongoDB ejecutadas y exportadas.
+2026-11-17 23:57:37,687 - INFO - Conexión exitosa con MongoDB Atlas.
