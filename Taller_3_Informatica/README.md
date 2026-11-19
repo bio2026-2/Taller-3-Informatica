@@ -4,7 +4,7 @@
 
 Este proyecto genera 50 registros biomédicos ficticios, los valida, ordena por frecuencia cardíaca, guarda archivos TXT/CSV/JSON y permite almacenarlos y consultarlos en MongoDB Atlas.
 
-## 1. Archivos y carpetas
+# 1. Archivos y carpetas
 
 - `main.py`: programa principal y menú.
 - `requirements.txt`: dependencia externa.
@@ -15,7 +15,7 @@ Este proyecto genera 50 registros biomédicos ficticios, los valida, ordena por 
 
 Las carpetas `data` se crean automáticamente al ejecutar `main.py`.
 
-## 2. Requisitos e instalación en Spyder
+# 2. Requisitos e instalación en Spyder
 
 1. Abrir Anaconda Navigator y ejecutar Spyder.
 2. Abrir `main.py` desde la carpeta del proyecto.
@@ -29,7 +29,7 @@ También se puede instalar solo la dependencia con `%pip install pymongo`.
 
 4. Ejecutar `main.py` con F5.
 
-## 3. Configurar MongoDB Atlas
+# 3. Configurar MongoDB Atlas
 
 1. Crear un clúster gratuito en MongoDB Atlas.
 2. En **Database Access**, crear un usuario de base de datos.
@@ -46,7 +46,7 @@ Reemplazar el texto por la URI real. No subir la URI, contraseña ni credenciale
 
 La base de datos se llama `taller_informatica` y la colección `signos vitales`. MongoDB las crea al insertar el primer documento.
 
-## 4. Uso
+# 4. Uso
 
 Ejecutar `main.py` con F5 y usar el menú:
 
@@ -63,13 +63,26 @@ Ejecutar `main.py` con F5 y usar el menú:
 
 Se recomienda ejecutar en orden las opciones 1, 4, 5, 7 y 8. La opción 6 importa el archivo `data/json/registros.json`, por lo que primero debe existir mediante la opción 5.
 
-## 5. Formatos validados
+# 5. Formatos validados
 
 - `id`: `ID-001` (tres dígitos).
 - `fr`: número seguido de `Años`.
 - `fc`: tres dígitos seguidos de `ppm`.
 - `spo2`: número seguido de `%`.
 
-## 6. Consideración
+# 6. Consideración
 
 Los datos son generados aleatoriamente y son ficticios. No representan pacientes reales ni deben utilizarse para decisiones clínicas.
+
+# 7. Pruebas realizadas
+
+Se verificó el funcionamiento del programa mediante las siguientes pruebas:
+
+- Generación de 50 registros biomédicos.
+- Ordenamiento por frecuencia cardíaca.
+- Validación de los datos mediante expresiones regulares.
+- Exportación e importación de archivos TXT, CSV y JSON.
+- Conexión con MongoDB Atlas e inserción de documentos.
+- Consulta del promedio de frecuencia cardíaca.
+- Búsqueda de registros con SpO2 menor a 94%.
+- Búsqueda de registros mediante su identificador (ID).
